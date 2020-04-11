@@ -1,20 +1,20 @@
 package it.intersistemi.corsojava.generics.esercizi;
 
-public class Dipendente extends Persona {
-	
+public class Employee extends Person {
+
 	private String idFiliale;
 	private String idUfficio;
 // costruttore che accetta in i
-	public Dipendente(String nome, String cognome, String idFiliale, String idUfficio, Sesso sesso) {
+	public Employee(String nome, String cognome, String idFiliale, String idUfficio, Sex sesso) {
 		super(nome, cognome, sesso);
-	
+
 	}
-	
+
 	public void trasferisci(String idUfficio, String idFiliale) {
-		
+
 		this.idFiliale = idFiliale;
-		this.idUfficio = idUfficio; 
-		
+		this.idUfficio = idUfficio;
+
 	}
 
 	/**
@@ -36,6 +36,6 @@ public class Dipendente extends Persona {
 
 
 	}
-	
+
 
 

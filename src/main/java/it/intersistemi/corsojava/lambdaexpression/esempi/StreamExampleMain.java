@@ -1,4 +1,4 @@
-package it.intersistemi.corsojava.streams.esempi;
+package it.intersistemi.corsojava.lambdaexpression.esempi;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
@@ -25,10 +25,10 @@ public class StreamExampleMain {
 					.mapToInt(p -> p.getAge())
 					.average()
 					.getAsDouble();
-			System.out.println("Media et� elementi maschili: "+media);		
+			System.out.println("Media et� elementi maschili: "+media);
 		}
 	}
-	
+
 	private static List<Person> generatePeople(){
 		List<Person> people = new ArrayList<>();
  		people.add(new Person("Alessio", LocalDate.of(2000, 1, 2), Sex.MALE, "alessio.suoCognome@gmail.com"));

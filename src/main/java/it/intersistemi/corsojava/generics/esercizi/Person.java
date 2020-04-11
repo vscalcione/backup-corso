@@ -1,22 +1,22 @@
 package it.intersistemi.corsojava.generics.esercizi;
 
-public class Persona {
-	
+public class Person {
+
 	private String nome;
 	private String cognome;
-	private Sesso sesso;
-	
+	private Sex sesso;
 
-	public Persona(String nome, String cognome, Sesso sesso) {
+
+	public Person(String nome, String cognome, Sex sesso) {
 		super();
 		this.nome = nome;
 		this.cognome = cognome;
 		this.sesso = sesso;
-		
-		
-		
-		
-		
+
+
+
+
+
 	}
 
 
@@ -30,7 +30,7 @@ public class Persona {
 	}
 
 
-	
+
 
 
 }
