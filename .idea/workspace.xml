@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57efbeee-efaa-4f9d-98e4-ca166bd96588" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/backup-corso.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/collections/esercizi/Chitarra.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/collections/esercizi/FactoryStrumenti.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/collections/esercizi/IStrumentiMusicali.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/collections/esercizi/Pianoforte.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/collections/esercizi/Start.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/enumerazioni/esempi/Direzione.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/enumerazioni/esempi/GiorniDellaSettimana.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/enumerazioni/esempi/GiorniDellaSettimanaMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/ereditarieta/esempi/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/ereditarieta/esempi/B1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/ereditarieta/esempi/B2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/ereditarieta/esempi/Base.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/ereditarieta/esempi/BaseDerivataMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/ereditarieta/esempi/C.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/ereditarieta/esempi/Derivata.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/ereditarieta/esempi/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/generics/esercizi/Dipendente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/generics/esercizi/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/generics/esercizi/MultiKeyMapMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/generics/esercizi/MultiKeyMapMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/generics/esercizi/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/generics/esercizi/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/generics/esercizi/RaggruppaPersoneMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/generics/esercizi/GroupPersonMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/generics/esercizi/Sesso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/generics/esercizi/Sex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/generics/esercizi/UfficioFiliale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/generics/esercizi/BranchOffice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/lambdaexpression/ArraySortLambdaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/lambdaexpression/esempi/ArraySortLambdaMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/lambdaexpression/CheckPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/lambdaexpression/esercizi/CheckPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/lambdaexpression/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/lambdaexpression/esercizi/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/streams/esempi/StreamExampleMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/lambdaexpression/esempi/StreamExampleMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/streams/esercizi/MultiKeyMapMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/streams/esercizi/MultiKeyMapMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/streams/esercizi/RaggruppaDipendentiMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/intersistemi/corsojava/streams/esercizi/RaggruppaDipendentiMain.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aOAP0ygxseUl9PV1mZkGXmMlfb" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57efbeee-efaa-4f9d-98e4-ca166bd96588" name="Default Changelist" comment="" />
+      <created>1586596238213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586596238213</updated>
+      <workItem from="1586596239352" duration="2447000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,8 +1,8 @@
 package it.intersistemi.corsojava.generics.esercizi;
 
-public enum Sesso {
+public enum Sex {
 	UOMO,
 	DONNA,
-	
+
 
 }
