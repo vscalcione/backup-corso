@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Hello World!</title>
+		<script type="text/javascript">
+			/*function funzione(elemento,mouseSopra){
+				if(mouseSopra){
+					elemento.setAttribute("src","http://lulz.xerq.net/0912-DECEMBER/000-0912-GIFS/zppNHlsBgT.gif");
+				}
+				else
+				{
+					elemento.setAttribute("src","http://www.immago.net/images/immago_logo.png");
+				}
+			}*/
+			funzione();
+			var mouseSopra=true;
+			var punti=0;
+			
+			function funzione(){
+				if(mouseSopra){
+					var leftAttuale=parseInt(document.getElementById("div").style.left.slice(0,-2));
+					var topAttuale=parseInt(document.getElementById("div").style.top.slice(0,-2));
+					if(Math.random()<0.5){
+						document.getElementById("div").style.left = (leftAttuale+(Math.random()*11) | 0) + "px";
+					}
+					else{
+						if(leftAttuale>10){
+							document.getElementById("div").style.left = (leftAttuale-(Math.random()*11) | 0) + "px";
+						}
+					}
+					if(Math.random()<0.5){
+						document.getElementById("div").style.top = (topAttuale+(Math.random()*11) | 0) + "px";
+					}
+					else{
+						if(topAttuale>10){
+							document.getElementById("div").style.top = (topAttuale-(Math.random()*11) | 0) + "px";
+						}
+					}
+					punti++;
+					document.getElementById("paragrafopunti").innerHTML=punti;
+				}
+			}
+		</script>
+	</head>
+	<body>
+		<h1>Ciao Mondo!</h1>
+		<p>Questa � la nostra prima pagina HTML!</p>
+		<div id="div" style="position: absolute; left: 100px; top: 100px;">
+			<img src="http://www.immago.net/images/immago_logo.png" alt="Testo immagine" onMouseMove="funzione();" onMouseOut='if(mouseSopra)alert("hai perso");mouseSopra=false'>
+		</div>
+		<div id="punti" style="position: absulote; left: 500px; top: 25px">
+			<p id="paragrafopunti">0</p>
+		</div>
+	</body>
+</html>

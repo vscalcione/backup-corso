@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+   <bean id="beanA" class="it.intersistemi.corsojava.springcore.esempi.app.A">
+   	<property name="b" ref="beanB"></property>
+   </bean>
+
+	<bean id="beanB" class="it.intersistemi.corsojava.springcore.esempi.app.B">
+		<property name="c" ref="beanC"></property>
+	</bean>
+	<bean id="beanC" class="it.intersistemi.corsojava.springcore.esempi.app.C"></bean>
+</beans>
